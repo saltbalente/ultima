@@ -1,0 +1,15 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo circular -->
+  <circle cx="8" cy="8" r="7.5" fill="#1F1B2E" stroke="#8B5CF6" stroke-width="1"/>
+  
+  <!-- Pentagrama simplificado -->
+  <path d="M8 3 L9.2 6.2 L12.5 6.2 L10 8.5 L11.2 11.8 L8 9.5 L4.8 11.8 L6 8.5 L3.5 6.2 L6.8 6.2 Z" 
+        fill="#FFD700" stroke="#FFA500" stroke-width="0.3"/>
+  
+  <!-- Punto central místico -->
+  <circle cx="8" cy="8" r="1" fill="#A855F7" opacity="0.8"/>
+  
+  <!-- Estrellas pequeñas -->
+  <circle cx="12" cy="4" r="0.5" fill="#FFD700"/>
+  <circle cx="4" cy="12" r="0.5" fill="#FFA500"/>
+</svg>
